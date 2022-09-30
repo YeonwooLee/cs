@@ -1,7 +1,9 @@
 package sliding_window.a;
 import java.util.*;
 import java.io.*;
+
 //2022-09-30 틀림
+//sliding_window 기본
 
 public class BJ_12891_1 {
     static int S;
