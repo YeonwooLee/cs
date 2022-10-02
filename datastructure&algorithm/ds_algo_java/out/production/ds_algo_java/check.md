@@ -10,16 +10,33 @@ https://www.acmicpc.net/problem/11286
 [해결코드]
 
 # 푼 문제 목록
+### 2022 - 10 - 02
+- 틀림
+  - sort / Gold_2 / 30 / 버블 소트 / https://www.acmicpc.net/problem/1377
+    - 틀린이유: 알고리즘 틀림, 풀이 틀림
+    - 공부: Comparable, Comparator
+
+- 맞음
+  - dfs & bfs/ Silver_1 / 35 / 안전 영역 (https://www.acmicpc.net/problem/2468)
+    - printArr 항상 만들기 
+    - 영역 셀 때 dfs에 초기화 코드 넣지 말기
+  - dfs & bfs/ Silver_1 / 20 / 나이트의 이동 (https://www.acmicpc.net/problem/7562)
+  - sort / Bronze_2 / 5 / 수 정렬하기 / https://www.acmicpc.net/problem/2750
+  - sort / Silver_5 / 20 / 소트인사이드 / https://www.acmicpc.net/problem/1427
+
 ### 2022 - 10 - 01
 - 틀림
   - Stack / Silver_2 / 30 / 스택 수열 (https://www.acmicpc.net/problem/1874)
     - 틀린이유: 출력초과 (원인 모름)
   - Stack / Gold_4 / 30 / 오큰수 (https://www.acmicpc.net/problem/17298)
     - 틀린이유: 풀이 못떠올림
+  - dfs & bfs / Silver_1 / 40+ / 숨바꼭질 (https://www.acmicpc.net/problem/1697)
+    - 틀린이유: 1회차-알고리즘 틀림 / 2회차-맞왜틀
 - 맞음
   - Queue / Silver_4 / 5 / 카드2 (https://www.acmicpc.net/problem/2164)
   - PriorityQueue / Silver_1 / 10 / 절댓값 힙 (https://www.acmicpc.net/problem/11286)
-  - DFS/ Silver_2 / 30 / 섬의 개수 (https://www.acmicpc.net/problem/4963)
+  - dfs & bfs/ Silver_2 / 30 / 섬의 개수 (https://www.acmicpc.net/problem/4963)
+  - 
 ### 2022 - 09 - 30
 - 틀림
   - sliding_window / Silver_2 / 60+ / DNA 비밀번호 (https://www.acmicpc.net/problem/12891)

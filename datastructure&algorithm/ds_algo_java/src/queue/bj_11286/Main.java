@@ -16,12 +16,13 @@ public class Main{
         N = Integer.parseInt(br.readLine());
         PriorityQueue<Integer> pq = new PriorityQueue<>(new Comparator<Integer>() {
             @Override
+            //Comparater<T>는 compare 메소드를 오버라이딩
             public int compare(Integer o1, Integer o2) {
-                int a = Math.abs(o1);
-                int b = Math.abs(o2);
+                int a = Math.abs(o1); //o1의 절댓값
+                int b = Math.abs(o2); //o2의 절댓값
 
                 if(a<b){
-                    return -1;
+                    return -1;//a가 b보다 작으므로 o1이 앞으로 간다(오름차순)
                 }else if(a==b){
                     return o1-o2;
                 }else{
