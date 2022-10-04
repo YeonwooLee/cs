@@ -1,3 +1,21 @@
+# Merge Sort
+
+- #### time complexity
+
+  - Worst = O(nlogn)
+  - Best = O(nlogn)
+  - Average = nlogn
+
+- #### in-place vs not-in-place
+
+  - **not-in-place**
+
+- #### stable vs unstable
+
+  - **stable** 
+    - [2, 2, 1] 오름차순 정렬시 stable
+
+```java
 package sort.merge_sort.bj_2751;
 
 import java.io.*;
@@ -54,3 +72,7 @@ public class MyMerge {
 
     }
 }
+```
+
+
+

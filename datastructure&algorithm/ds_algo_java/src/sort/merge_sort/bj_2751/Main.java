@@ -1,28 +1,39 @@
 package sort.merge_sort.bj_2751;
 
 import java.io.*;
-import java.util.*;
 
-public class MyMerge {
-    public static int[] tmp;
-
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+public class Main {
+    public static int[] A, tmp;
+    public static long result;
     public static void main(String[] args) throws IOException {
-        int[] A = {1, 5, 4, 3, 8, 1};
-        tmp = new int[A.length];
-
-        merget_sort(A, 1, A.length - 1); // 병합정렬 수행하기
-        for (int i = 0; i < A.length; i++) {
-            System.out.printf("%3d", A[i]);
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        int N = Integer.parseInt(br.readLine());
+        A = new int[N + 1];
+        tmp = new int[N + 1];
+        for (int i = 1; i <= N; i++) {
+            A[i] = Integer.parseInt(br.readLine());
         }
+        merget_sort(1, N); // 병합정렬 수행하기
+        for (int i = 1; i <= N; i++) {
+            bw.write(A[i] + "\n");
+        }
+        bw.flush();
+        bw.close();
     }
 
-    private static void merget_sort(int[] A, int s, int e) {
+    private static void merget_sort(int s, int e) {
         if (e - s < 1)
             return;
         int m = s + (e - s) / 2;
         // 재귀함수 형태로 구현
-        merget_sort(A, s, m);
-        merget_sort(A, m + 1, e);
+        merget_sort(s, m);
+        merget_sort(m + 1, e);
         for (int i = s; i <= e; i++) {
             tmp[i] = A[i];
         }
