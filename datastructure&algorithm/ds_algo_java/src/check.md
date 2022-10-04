@@ -1,6 +1,6 @@
 [몇월/며칠] 알고리즘 / 난이도 / 걸린시간 / 문제제목 (문제링크)
 [문제요약]
-https://www.acmicpc.net/problem/11286
+https://www.acmicpc.net/problem/1987
 [걸린시간]
 
 [못풀었다면 못풀었는 이유]
@@ -10,6 +10,18 @@ https://www.acmicpc.net/problem/11286
 [해결코드]
 
 # 푼 문제 목록
+### 2022 - 10 - 03
+- 틀림
+  - floyd-warshall / Silver_1 / 60+ / 경로 찾기 https://www.acmicpc.net/problem/11403
+    - 틀린이유: 알고리즘 틀림(dfs), 구현틀림(LinkedList로 구현하는 dfs )
+    - 공부 : 플로이드-와샬,LinkedList로 구현하는 dfs 
+  - quick_sort / Silver_5 / 60+ / k번째 수 https://www.acmicpc.net/problem/11004
+    - 틀린이유: 퀵 소트
+    - 공부: 퀵 소트
+- 맞음
+  - dfs & bfs/ Gold_4 / 30 / 알파벳 https://www.acmicpc.net/problem/1987
+  - sort/ Silver_4 / 15/ ATM / https://www.acmicpc.net/problem/11399
+  
 ### 2022 - 10 - 02
 - 틀림
   - sort / Gold_2 / 30 / 버블 소트 / https://www.acmicpc.net/problem/1377
