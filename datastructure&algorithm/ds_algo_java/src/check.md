@@ -10,7 +10,15 @@ https://www.acmicpc.net/problem/1987
 [해결코드]
 
 # 푼 문제 목록
-### 2022 - 10 - 03
+### 2022 - 10 - 05
+- 틀림
+  - dfs / swe_4 / 30 / 가능한 시험 점수 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn
+    - 시간 복잡도 줄이기
+    
+- 맞음
+  - exhaustive_search / programmers_1 / 10 / 최소직사각형 https://school.programmers.co.kr/learn/courses/30/lessons/86491
+
+### 2022 - 10 - 04
 - 틀림
   - merge_sort / Silver_5 / 60+ / 수 정렬하기2 https://www.acmicpc.net/problem/2751
     - merge sort 구현
