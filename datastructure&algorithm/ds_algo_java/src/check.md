@@ -18,7 +18,10 @@ https://www.acmicpc.net/problem/1987
     - merge sort 구현
   - radix_sort / Bronze_1 / 30 / 수 정렬하기3 https://www.acmicpc.net/problem/10989
     - radix sort 구현
+  - dfs / Silver_2 / 30 / 트리의 부모 찾기 https://www.acmicpc.net/problem/11725
+    - 인접리스트로 dfs 구현
 - 맞음
+  - bfs / Silver_1 / 30- / 영역 구하기 https://www.acmicpc.net/problem/2583
 ### 2022 - 10 - 03
 - 틀림
   - floyd-warshall / Silver_1 / 60+ / 경로 찾기 https://www.acmicpc.net/problem/11403
