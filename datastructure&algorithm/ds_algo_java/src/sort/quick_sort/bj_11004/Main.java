@@ -13,8 +13,8 @@ public class Main {
     public static void main(String[] args) throws IOException {
 //        int[] arr = { 3, 1, 7, 4, 5, 1, 8, 2,3,3,3,3,3,3,3 };
 //        quickSort(arr);
-//        for (int a : arr) {
-//            System.out.println(a);
+//        for (int bj_12891 : arr) {
+//            System.out.println(bj_12891);
 //        }
         st = new StringTokenizer(br.readLine());
         N = Integer.parseInt(st.nextToken());

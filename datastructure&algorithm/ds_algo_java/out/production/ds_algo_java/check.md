@@ -9,8 +9,33 @@ https://www.acmicpc.net/problem/1987
 
 [해결코드]
 
+### 2022 - MM - DD
+- 틀림
+  - a
+- 맞음
+  -  /  /  /  /
+
+
 # 푼 문제 목록
-### 2022 - 10 - 03
+### 2022 - 10 - 06
+- 틀림
+  - a
+- 맞음
+  - dfs/ programmers_2 / 15 / O / 타겟 넘버 (https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+  - dfs / Silver_2 / 15 / O / 연결 요소의 개수 (https://www.acmicpc.net/problem/11724)
+
+
+### 2022 - 10 - 05
+- 틀림
+  - dfs / swe_4 / 30 / 가능한 시험 점수 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn
+    - 시간 복잡도 줄이기
+  - sliding_window / Silver_2 / 30 / DNA 비밀번호* (https://www.acmicpc.net/problem/12891)
+  - dfs & bfs / Silver_1 / 40+ / 숨바꼭질* (https://www.acmicpc.net/problem/1697)
+    - 틀린이유: 1회차-알고리즘 틀림 / 2회차-맞왜틀
+- 맞음
+  - exhaustive_search / programmers_1 / 10 / 최소직사각형 https://school.programmers.co.kr/learn/courses/30/lessons/86491
+
+### 2022 - 10 - 04
 - 틀림
   - merge_sort / Silver_5 / 60+ / 수 정렬하기2 https://www.acmicpc.net/problem/2751
     - merge sort 구현
@@ -54,7 +79,7 @@ https://www.acmicpc.net/problem/1987
     - 틀린이유: 출력초과 (원인 모름)
   - Stack / Gold_4 / 30 / 오큰수 (https://www.acmicpc.net/problem/17298)
     - 틀린이유: 풀이 못떠올림
-  - dfs & bfs / Silver_1 / 40+ / 숨바꼭질 (https://www.acmicpc.net/problem/1697)
+  - []dfs & bfs / Silver_1 / 40+ / 숨바꼭질 (https://www.acmicpc.net/problem/1697)V
     - 틀린이유: 1회차-알고리즘 틀림 / 2회차-맞왜틀
 - 맞음
   - Queue / Silver_4 / 5 / 카드2 (https://www.acmicpc.net/problem/2164)
@@ -63,7 +88,7 @@ https://www.acmicpc.net/problem/1987
   - 
 ### 2022 - 09 - 30
 - 틀림
-  - sliding_window / Silver_2 / 60+ / DNA 비밀번호 (https://www.acmicpc.net/problem/12891)
+  - []sliding_window / Silver_2 / 60+ / DNA 비밀번호 (https://www.acmicpc.net/problem/12891)
 - 맞음
   - dfs & bfs / Silver_2 / 20분 / 연결 요소의 개수 (https://www.acmicpc.net/problem/11724)
   - dfs & bfs / Gold_5 / 40분 / 토마토 (https://www.acmicpc.net/problem/7569)
