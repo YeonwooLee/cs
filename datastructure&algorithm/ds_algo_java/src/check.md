@@ -17,6 +17,15 @@ https://www.acmicpc.net/problem/1987
 
 
 # 푼 문제 목록
+
+### 2022 - 10 - 08
+- 틀림
+  - dfs / bj_G5 / 30+ / X / ABCDE (https://www.acmicpc.net/problem/13023)
+  - sort / Gold_2 / 30 / XX / 버블 소트 (https://www.acmicpc.net/problem/1377)
+- 맞음
+  - dfs / pg_3 / 15 / O / 네트워크 (https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+
+
 ### 2022 - 10 - 06
 - 틀림
   - Stack / Gold_4 / 15 /XX/ 오큰수 (https://www.acmicpc.net/problem/17298)
@@ -61,7 +70,7 @@ https://www.acmicpc.net/problem/1987
   
 ### 2022 - 10 - 02
 - 틀림
-  - sort / Gold_2 / 30 / 버블 소트 / https://www.acmicpc.net/problem/1377
+  - []sort / Gold_2 / 30 / 버블 소트 / https://www.acmicpc.net/problem/1377
     - 틀린이유: 알고리즘 틀림, 풀이 틀림
     - 공부: Comparable, Comparator
 
@@ -75,7 +84,7 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 01
 - 틀림
-  - Stack / Silver_2 / 30 / 스택 수열 (https://www.acmicpc.net/problem/1874)
+  - []Stack / Silver_2 / 30 / 스택 수열 (https://www.acmicpc.net/problem/1874)
     - 틀린이유: 출력초과 (원인 모름)
   - []Stack / Gold_4 / 30 / 오큰수 (https://www.acmicpc.net/problem/17298)
     - 틀린이유: 풀이 못떠올림
