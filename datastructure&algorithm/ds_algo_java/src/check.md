@@ -16,6 +16,14 @@ https://www.acmicpc.net/problem/1987
   -  /  /  /  /
 
 
+### 2022 - 10 - 07
+- 틀림
+  - Stack / Silver_2 / 30 / XX / 스택 수열 (https://www.acmicpc.net/problem/1874)
+- 맞음
+  - dfs / bj_G5 / 25 / O / 신기한 소수 (https://www.acmicpc.net/problem/2023)
+  - daily(2022-10-07)bfs / pg_2 / 15 / O / 게임 맵 최단거리 (https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+
+
 # 푼 문제 목록
 ### 2022 - 10 - 06
 - 틀림
@@ -75,7 +83,7 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 01
 - 틀림
-  - Stack / Silver_2 / 30 / 스택 수열 (https://www.acmicpc.net/problem/1874)
+  - []Stack / Silver_2 / 30 / 스택 수열 (https://www.acmicpc.net/problem/1874)
     - 틀린이유: 출력초과 (원인 모름)
   - []Stack / Gold_4 / 30 / 오큰수 (https://www.acmicpc.net/problem/17298)
     - 틀린이유: 풀이 못떠올림
