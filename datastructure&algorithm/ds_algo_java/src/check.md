@@ -11,12 +11,39 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - MM - DD
 - 틀림
-  - a
+  - /  /  /  /
 - 맞음
   - /  /  /  /
 
   
 # 푼 문제 목록
+
+### 2022 - 10 - 21
+- 틀림
+  - 완탐 / bj_G3 / 30 / X / 내리막 길(https://www.acmicpc.net/problem/1520)
+  - 완탐 / bj_G3 / 30 / X / 내리막 길(코틀린)(https://www.acmicpc.net/problem/1520)
+    - 시간복잡도 = 4 * 500 * 500
+- 맞음
+  - /  /  /  /
+
+
+
+### 2022 - 10 - 20
+- 틀림
+  - bfs / bj_S2 / 30 / O / 촌수계산(코틀린) (https://www.acmicpc.net/problem/2644)
+    - 입력받기, mutableList배열 선언, q 선언
+      - private fun readInts() = readLine()!!.split(" ").map{it.toInt()}
+      - val map = Array<MutableList<Int>>(num+1){ mutableListOf() }
+      - val q:Queue<Array<Int>> = LinkedList<Array<Int>>()
+- 맞음
+  - bfs / bj_S2 / 30 / O / 촌수계산 (https://www.acmicpc.net/problem/2644)
+
+### 2022 - 10 - 15
+- 틀림
+  - a
+- 맞음
+  - ? / pg_3 / 20 / O / 이중우선순위큐 (https://school.programmers.co.kr/learn/courses/30/lessons/42628)
+
 
 
 ### 2022 - 10 - 14

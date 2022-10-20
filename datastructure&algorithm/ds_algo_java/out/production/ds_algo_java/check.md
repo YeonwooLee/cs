@@ -13,24 +13,66 @@ https://www.acmicpc.net/problem/1987
 - 틀림
   - a
 - 맞음
-  -  /  /  /  /
+  - /  /  /  /
+
+  
+# 푼 문제 목록
 
 
-### 2022 - 10 - 07
+### 2022 - 10 - 20
+- 틀림
+  - bfs / bj_S2 / 30 / O / 촌수계산(코틀린) (https://www.acmicpc.net/problem/2644)
+    - 입력받기, mutableList배열 선언, q 선언
+      - private fun readInts() = readLine()!!.split(" ").map{it.toInt()}
+      - val map = Array<MutableList<Int>>(num+1){ mutableListOf() }
+      - val q:Queue<Array<Int>> = LinkedList<Array<Int>>()
+- 맞음
+  - bfs / bj_S2 / 30 / O / 촌수계산 (https://www.acmicpc.net/problem/2644)
+
+### 2022 - 10 - 15
 - 틀림
   - a
 - 맞음
-  - dfs / bj_G5 / 25 / O / 신기한 소수 (https://www.acmicpc.net/problem/2023)
-  - daily(2022-10-07)bfs / pg_2 / 15 / O / 게임 맵 최단거리 (https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+  - ? / pg_3 / 20 / O / 이중우선순위큐 (https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 
 
-# 푼 문제 목록
+
+### 2022 - 10 - 14
+- 틀림
+  - priorityQueue / pg_3 / 10 / X / 야근 지수 ("https://school.programmers.co.kr/learn/courses/30/lessons/12927")
+    - priorityQueue 정렬 기준 변경 = new PriorityQueue<>((a,b)->b.compareTo(a))
+    - 자바 int 21억까지민 표현 가능
+- 맞음
+  - /  /  /  /
+
+
+### 2022 - 10 - 12
+- 틀림
+  - a
+- 맞음
+  - dfs / pg_3 / 20 / O / 여행경로 (https://school.programmers.co.kr/learn/courses/30/lessons/43164)
+
+
+
+### 2022 - 10 - 10
+- 맞음
+  - bfs / pg_3 / 30 / O / 단어 변환 (https://school.programmers.co.kr/learn/courses/30/lessons/43163)
+
 
 ### 2022 - 10 - 08
 - 틀림
   - dfs / bj_G5 / 30+ / X / ABCDE (https://www.acmicpc.net/problem/13023)
+  - sort / Gold_2 / 30 / XX / 버블 소트 (https://www.acmicpc.net/problem/1377)
 - 맞음
   - dfs / pg_3 / 15 / O / 네트워크 (https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+
+### 2022 - 10 - 07
+- 틀림
+  - Stack / Silver_2 / 30 / XX / 스택 수열 (https://www.acmicpc.net/problem/1874)
+- 맞음
+  - dfs / bj_G5 / 25 / O / 신기한 소수 (https://www.acmicpc.net/problem/2023)
+  - daily(2022-10-07)bfs / pg_2 / 15 / O / 게임 맵 최단거리 (https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+
 
 
 ### 2022 - 10 - 06
