@@ -1,4 +1,5 @@
-package stack.bj_1874;
+package daily.d_2022_10_07.bj_1874_2;
+
 import java.util.Scanner;
 import java.util.Stack;
 
