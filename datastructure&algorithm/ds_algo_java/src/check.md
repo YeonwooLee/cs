@@ -18,6 +18,19 @@ https://www.acmicpc.net/problem/1987
   
 # 푼 문제 목록
 
+
+### 2022 - 10 - 22
+- 틀림
+  - dijkstra / bj_1753 / 30- / X / 최단경로(https://www.acmicpc.net/problem/1753)
+    - 다익스트라 구현
+    - 다익스트라 visited 의문점(visited가 필요한지, 필요하다면 어디에 위치해야하는가)
+      1. poll() 레벨
+      2. poll()하위의 for loop 레벨
+- 맞음
+  - /  /  /  /
+
+
+
 ### 2022 - 10 - 21
 - 틀림
   - 완탐 / bj_G3 / 30 / X / 내리막 길(https://www.acmicpc.net/problem/1520)

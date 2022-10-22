@@ -1,4 +1,4 @@
-package daily.d_2022_10_21.bj_1520
+package exhaustive_search.bj_1520
 
 import java.util.*
 
@@ -15,12 +15,12 @@ fun main() = with(System.`in`.bufferedReader()) {
     m = st.nextToken().toInt()
     n = st.nextToken().toInt()
 
-    map = Array(m+1){Array(n+1){0} }
-    dp = Array(m+1){Array(n+1){-1} }
+    map = Array(m +1){Array(n +1){0} }
+    dp = Array(m +1){Array(n +1){-1} }
 
-    repeat(m){i->
+    repeat(m){ i->
         st = StringTokenizer(readLine())
-        repeat(n){j->
+        repeat(n){ j->
             map[i+1][j+1]=st.nextToken().toInt()
         }
     }
@@ -29,18 +29,18 @@ fun main() = with(System.`in`.bufferedReader()) {
 }
 
 fun dfs(sr:Int, sc:Int):Int{
-    if(sr==m && sc==n) return 1
+    if(sr== m && sc== n) return 1
     if(dp[sr][sc]!=-1) return dp[sr][sc]
 
     dp[sr][sc] = 0
     for(i in 0..3){
-        val nr = sr+dr[i];
-        val nc = sc+dc[i];
+        val nr = sr+ dr[i];
+        val nc = sc+ dc[i];
 
-        if(nr<1||nr>m||nc<1||nc>n) continue
-        if(map[sr][sc]<=map[nr][nc]) continue
+        if(nr<1||nr> m ||nc<1||nc> n) continue
+        if(map[sr][sc]<= map[nr][nc]) continue
 
-        dp[sr][sc]+=dfs(nr,nc)
+        dp[sr][sc]+= dfs(nr,nc)
     }
     return dp[sr][sc];
 }

@@ -1,5 +1,6 @@
 package daily.d_2022_10_21.bj_1520
 
+import exhaustive_search.bj_1520.dfs
 import java.util.*
 
 private val dr = arrayOf(-1, 0, 1, 0)
@@ -28,7 +29,7 @@ fun main() = with(System.`in`.bufferedReader()) {
     println(dfs(1,1))
 }
 
-fun dfs(sr:Int, sc:Int):Int{
+fun dfs1520(sr:Int, sc:Int):Int{
     if(sr==m && sc==n) return 1
     if(dp[sr][sc]!=-1) return dp[sr][sc]
 
@@ -40,7 +41,7 @@ fun dfs(sr:Int, sc:Int):Int{
         if(nr<1||nr>m||nc<1||nc>n) continue
         if(map[sr][sc]<=map[nr][nc]) continue
 
-        dp[sr][sc]+=dfs(nr,nc)
+        dp[sr][sc]+=dfs1520(nr,nc)
     }
     return dp[sr][sc];
 }

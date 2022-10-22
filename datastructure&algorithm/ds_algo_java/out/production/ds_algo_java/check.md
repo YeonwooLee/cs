@@ -11,12 +11,21 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - MM - DD
 - 틀림
-  - a
+  - /  /  /  /
 - 맞음
   - /  /  /  /
 
   
 # 푼 문제 목록
+
+### 2022 - 10 - 21
+- 틀림
+  - 완탐 / bj_G3 / 30 / X / 내리막 길(https://www.acmicpc.net/problem/1520)
+  - 완탐 / bj_G3 / 30 / X / 내리막 길(코틀린)(https://www.acmicpc.net/problem/1520)
+    - 시간복잡도 = 4 * 500 * 500
+- 맞음
+  - /  /  /  /
+
 
 
 ### 2022 - 10 - 20
