@@ -21,6 +21,7 @@ https://www.acmicpc.net/problem/1987
 ### 2022 - 10 - 08
 - 틀림
   - dfs / bj_G5 / 30+ / X / ABCDE (https://www.acmicpc.net/problem/13023)
+  - sort / Gold_2 / 30 / XX / 버블 소트 (https://www.acmicpc.net/problem/1377)
 - 맞음
   - dfs / pg_3 / 15 / O / 네트워크 (https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 
