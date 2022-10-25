@@ -1,21 +1,34 @@
-package sort.quick_sort;
+package sort.quick_sort.bj_11004_2;
 
+import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.*;
-import java.util.*;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
-public class MyQuickSort {
+public class Main {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
     static int N,K;
     static int[] arr;
 
     public static void main(String[] args) throws IOException {
-        int[] arr = { 3,100,1 };
-        quickSort(arr);
-        for (int a : arr) {
-            System.out.println(a);
+//        int[] arr = { 3, 1, 7, 4, 5, 1, 8, 2,3,3,3,3,3,3,3 };
+//        quickSort(arr);
+//        for (int bj_12891 : arr) {
+//            System.out.println(bj_12891);
+//        }
+        st = new StringTokenizer(br.readLine());
+        N = Integer.parseInt(st.nextToken());
+        K = Integer.parseInt(st.nextToken())-1;
+
+        st = new StringTokenizer(br.readLine());
+        arr = new int[N];
+        for(int i=0;i<N;i++){
+            arr[i] = Integer.parseInt(st.nextToken());
         }
+
+        quickSort(arr);
+        System.out.println(arr[K]);
 
     }
 
