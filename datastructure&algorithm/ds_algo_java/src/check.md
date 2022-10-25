@@ -19,9 +19,17 @@ https://www.acmicpc.net/problem/1987
 # 푼 문제 목록
 
 
+### 2022 - 10 - 24
+- 틀림
+  - /  /  /  /
+  - floyd-warshall / Silver_1 / 30 / 경로 찾기 https://www.acmicpc.net/problem/11403 
+- 맞음
+  - dijkstra / bj_G3 / 30 / O / 파티(https://www.acmicpc.net/problem/1238)
+
+
 ### 2022 - 10 - 22
 - 틀림
-  - dijkstra / bj_1753 / 30- / X / 최단경로(https://www.acmicpc.net/problem/1753)
+  - dijkstra / bj_G4 / 30- / X / 최단경로(https://www.acmicpc.net/problem/1753)
     - 다익스트라 구현
     - 다익스트라 visited 의문점(visited가 필요한지, 필요하다면 어디에 위치해야하는가)
       1. poll() 레벨
@@ -129,7 +137,7 @@ https://www.acmicpc.net/problem/1987
   - bfs / Silver_1 / 30- / 영역 구하기 https://www.acmicpc.net/problem/2583
 ### 2022 - 10 - 03
 - 틀림
-  - floyd-warshall / Silver_1 / 60+ / 경로 찾기 https://www.acmicpc.net/problem/11403
+  - []floyd-warshall / Silver_1 / 60+ / 경로 찾기 https://www.acmicpc.net/problem/11403
     - 틀린이유: 알고리즘 틀림(dfs), 구현틀림(LinkedList로 구현하는 dfs )
     - 공부 : 플로이드-와샬,LinkedList로 구현하는 dfs 
   - quick_sort / Silver_5 / 60+ / k번째 수 https://www.acmicpc.net/problem/11004
