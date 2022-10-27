@@ -26,6 +26,14 @@ https://www.acmicpc.net/problem/1987
   - /  /  /  /
 
 
+### 2022 - 10 - 25
+- 틀림
+  - quick_sort / bj_S5 / 60 / XX / K번째 수(https://www.acmicpc.net/problem/11004)
+- 맞음
+  - /  /  /  /
+
+
+
 ### 2022 - 10 - 24
 - 틀림
   - /  /  /  /
@@ -147,7 +155,7 @@ https://www.acmicpc.net/problem/1987
   - []floyd-warshall / Silver_1 / 60+ / 경로 찾기 https://www.acmicpc.net/problem/11403
     - 틀린이유: 알고리즘 틀림(dfs), 구현틀림(LinkedList로 구현하는 dfs )
     - 공부 : 플로이드-와샬,LinkedList로 구현하는 dfs 
-  - quick_sort / Silver_5 / 60+ / k번째 수 https://www.acmicpc.net/problem/11004
+  - []quick_sort / Silver_5 / 60+ / k번째 수 https://www.acmicpc.net/problem/11004
     - 틀린이유: 퀵 소트
     - 공부: 퀵 소트
 - 맞음
