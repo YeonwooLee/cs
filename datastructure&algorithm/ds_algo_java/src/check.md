@@ -18,6 +18,13 @@ https://www.acmicpc.net/problem/1987
   
 # 푼 문제 목록
 
+
+### 2022 - 10 - 28
+- 틀림
+  - 문자열/ pg_1 / 60 / X / 숫자 짝꿍(https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=java)
+- 맞음
+  - /  /  /  /
+
 ### 2022 - 10 - 27
 - 틀림
   - dijkstra/ bj_G4 / 60+ / X / 특정한 최단 경로 (https://www.acmicpc.net/problem/1504)
