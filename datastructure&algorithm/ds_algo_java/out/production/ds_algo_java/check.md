@@ -18,12 +18,30 @@ https://www.acmicpc.net/problem/1987
   
 # 푼 문제 목록
 
+### 2022 - 10 - 30
+- 틀림
+  - dfs & bfs / pg_3 / 30++ / X / 등대(https://school.programmers.co.kr/learn/courses/30/lessons/133500)
+    - 3단계쫄
+    - 풀이 못 떠올림
+- 맞음
+  - /  /  /  /
+
+
+
+### 2022 - 10 - 29
+- 틀림
+  - merge_sort / Silver_5 / 60+ / XX /수 정렬하기2 https://www.acmicpc.net/problem/2751
+    - merge sort 구현
+  - dfs & bfs / bj_G4 / 30 / X / 알고스팟 (https://www.acmicpc.net/problem/1261)
+    - 문제 제대로 안읽음
+- 맞음
+  - /  /  /  /
+
 
 ### 2022 - 10 - 28
 - 틀림
   - 문자열/ pg_1 / 60 / X / 숫자 짝꿍(https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=java)
-- 맞음
-  - /  /  /  /
+
 
 ### 2022 - 10 - 27
 - 틀림
@@ -147,9 +165,9 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 04
 - 틀림
-  - merge_sort / Silver_5 / 60+ / 수 정렬하기2 https://www.acmicpc.net/problem/2751
+  - []merge_sort / Silver_5 / 60+ / 수 정렬하기2 https://www.acmicpc.net/problem/2751
     - merge sort 구현
-  - merge_sort / Platinum_5 / 0 / 버블 소트 https://www.acmicpc.net/problem/1517
+  - [오답]merge_sort / Platinum_5 / 0 / 버블 소트 https://www.acmicpc.net/problem/1517
     - merge sort 구현
   - radix_sort / Bronze_1 / 30 / 수 정렬하기3 https://www.acmicpc.net/problem/10989
     - radix sort 구현
