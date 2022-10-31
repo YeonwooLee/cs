@@ -17,6 +17,16 @@ https://www.acmicpc.net/problem/1987
 
   
 # 푼 문제 목록
+### 2022 - 10 - 31
+- 틀림
+  - kruskal / pg_3 / 60++ / X / 섬 연결하기(https://school.programmers.co.kr/learn/courses/30/lessons/42861)
+    - 알고리즘 몰라서
+  - radix_sort / bj_B1 / 30 / XX / 수 정렬하기3 https://www.acmicpc.net/problem/10989
+    - radix sort 구현
+    - radix sort 큐 없이 구현
+- 맞음
+  - /  /  /  /
+
 
 ### 2022 - 10 - 30
 - 틀림
@@ -170,9 +180,9 @@ https://www.acmicpc.net/problem/1987
 - 틀림
   - []merge_sort / Silver_5 / 60+ / 수 정렬하기2 https://www.acmicpc.net/problem/2751
     - merge sort 구현
-  - [오답]merge_sort / Platinum_5 / 0 / 버블 소트 https://www.acmicpc.net/problem/1517
+  - []merge_sort / Platinum_5 / 0 / 버블 소트 https://www.acmicpc.net/problem/1517
     - merge sort 구현
-  - radix_sort / Bronze_1 / 30 / 수 정렬하기3 https://www.acmicpc.net/problem/10989
+  - [오답]radix_sort / Bronze_1 / 30 / 수 정렬하기3 https://www.acmicpc.net/problem/10989
     - radix sort 구현
   - dfs / Silver_2 / 30 / 트리의 부모 찾기 https://www.acmicpc.net/problem/11725
     - 인접리스트로 dfs 구현

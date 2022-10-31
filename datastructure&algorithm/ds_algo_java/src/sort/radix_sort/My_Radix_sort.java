@@ -24,7 +24,7 @@ public class My_Radix_sort {
     public static void Radix_Sort(int[] A, int max_size) {
         int[] output = new int[A.length];
         int jarisu = 1;
-        int count = 0;
+        int count = 0;//최대 자리수: 인풋 데이터의 범위(999이하의 자연수면 3)
         Queue<Integer>[] buckets = new LinkedList[10];
         for(int i=0;i<10;i++){
             buckets[i]=new LinkedList<>();
