@@ -17,10 +17,22 @@ https://www.acmicpc.net/problem/1987
 
   
 # 푼 문제 목록
+
+### 2022 - 11 - 01
+- 틀림
+- 맞음
+  - Hash / pg_3 / 50 / O / 베스트앨범(https://school.programmers.co.kr/learn/courses/30/lessons/42579)
+  - dfs & bfs / Silver_2 / 10 / XO / 트리의 부모 찾기 https://www.acmicpc.net/problem/11725
+    
+
+
 ### 2022 - 10 - 31
 - 틀림
   - kruskal / pg_3 / 60++ / X / 섬 연결하기(https://school.programmers.co.kr/learn/courses/30/lessons/42861)
     - 알고리즘 몰라서
+  - radix_sort / bj_B1 / 30 / XX / 수 정렬하기3 https://www.acmicpc.net/problem/10989
+    - radix sort 구현
+    - radix sort 큐 없이 구현
 - 맞음
   - /  /  /  /
 
@@ -165,7 +177,7 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 05
 - 틀림
-  - dfs / swe_4 / 30 / 가능한 시험 점수 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn
+  - [오답]dfs / swe_4 / 30 / 가능한 시험 점수 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE&problemTitle=%EA%B0%80%EB%8A%A5%ED%95%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
     - 시간 복잡도 줄이기
   - sliding_window / Silver_2 / 30 / DNA 비밀번호* (https://www.acmicpc.net/problem/12891)
   - dfs & bfs / Silver_1 / 40+ / 숨바꼭질* (https://www.acmicpc.net/problem/1697)
@@ -179,9 +191,9 @@ https://www.acmicpc.net/problem/1987
     - merge sort 구현
   - []merge_sort / Platinum_5 / 0 / 버블 소트 https://www.acmicpc.net/problem/1517
     - merge sort 구현
-  - [오답]radix_sort / Bronze_1 / 30 / 수 정렬하기3 https://www.acmicpc.net/problem/10989
+  - radix_sort / Bronze_1 / 30 / 수 정렬하기3 https://www.acmicpc.net/problem/10989
     - radix sort 구현
-  - dfs / Silver_2 / 30 / 트리의 부모 찾기 https://www.acmicpc.net/problem/11725
+  - []dfs / Silver_2 / 30 / 트리의 부모 찾기 https://www.acmicpc.net/problem/11725
     - 인접리스트로 dfs 구현
 - 맞음
   - bfs / Silver_1 / 30- / 영역 구하기 https://www.acmicpc.net/problem/2583

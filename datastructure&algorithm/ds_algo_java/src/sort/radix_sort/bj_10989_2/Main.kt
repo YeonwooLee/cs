@@ -1,4 +1,5 @@
-package daily.d_2022_10_31.bj_10989_2
+package sort.radix_sort.bj_10989_2
+
 import java.io.BufferedReader
 import java.io.BufferedWriter
 import java.io.InputStreamReader
