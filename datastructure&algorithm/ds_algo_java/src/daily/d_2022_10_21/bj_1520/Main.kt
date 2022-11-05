@@ -1,6 +1,6 @@
 package daily.d_2022_10_21.bj_1520
 
-import exhaustive_search.bj_1520.dfs
+import algorithms.exhaustive_search.bj_1520.dfs
 import java.util.*
 
 private val dr = arrayOf(-1, 0, 1, 0)

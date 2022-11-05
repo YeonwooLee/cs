@@ -29,7 +29,7 @@ public class Main {
         // 예: parents[i] = j (i의 부모 : j)
         int[] parents = new int[n+1];
 
-        // dfs
+        // algorithms.dfs
         dfs(list, parents, 1, 0);
 
         // 결과 출력

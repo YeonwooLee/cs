@@ -18,6 +18,29 @@ https://www.acmicpc.net/problem/1987
   
 # 푼 문제 목록
 
+### 2022 - 11 - 04
+- 틀림
+  - /  /  /  /
+- 맞음
+  - greedy / pg_3 / 20 / O / 단속카메라 (https://school.programmers.co.kr/learn/courses/30/lessons/42884)
+
+
+### 2022 - 11 - 03
+- 틀림
+  - greedy / bj_S1 / 30 / X / 회의실 배정 (https://www.acmicpc.net/problem/1931)
+  - 
+- 맞음
+  - greedy / bj_S4 / 30 / O / 동전 0(https://www.acmicpc.net/problem/11047)
+  - sliding_window /bj_S2 / 30 / O / DNA 비밀번호(https://solved.ac/contribute/12891) 
+
+### 2022 - 11 - 02
+- 틀림
+  - dfs & bfs / pg_3 / 60+ / X / 불량 사용자(https://school.programmers.co.kr/learn/courses/30/lessons/64064)
+  - exhaustive_search / swe_4 / 30 / XX / 가능한 시험 점수 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE&problemTitle=%EA%B0%80%EB%8A%A5%ED%95%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
+  
+- 맞음
+  - /  /  /  /
+
 ### 2022 - 11 - 01
 - 틀림
 - 맞음
@@ -177,10 +200,10 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 05
 - 틀림
-  - [오답]dfs / swe_4 / 30 / 가능한 시험 점수 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE&problemTitle=%EA%B0%80%EB%8A%A5%ED%95%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
+  - []dfs / swe_4 / 30 / 가능한 시험 점수 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE&problemTitle=%EA%B0%80%EB%8A%A5%ED%95%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
     - 시간 복잡도 줄이기
-  - sliding_window / Silver_2 / 30 / DNA 비밀번호* (https://www.acmicpc.net/problem/12891)
-  - dfs & bfs / Silver_1 / 40+ / 숨바꼭질* (https://www.acmicpc.net/problem/1697)
+  - []sliding_window / Silver_2 / 30 / DNA 비밀번호* (https://www.acmicpc.net/problem/12891)
+  - [오답]dfs & bfs / Silver_1 / 40+ / 숨바꼭질* (https://www.acmicpc.net/problem/1697)
     - 틀린이유: 1회차-알고리즘 틀림 / 2회차-맞왜틀
 - 맞음
   - exhaustive_search / programmers_1 / 10 / 최소직사각형 https://school.programmers.co.kr/learn/courses/30/lessons/86491

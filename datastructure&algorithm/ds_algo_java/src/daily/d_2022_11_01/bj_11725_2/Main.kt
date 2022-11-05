@@ -16,7 +16,7 @@ fun main(){
         arr[e].add(s)
     }
 
-    dfs.bj_11725_2.dfs(arr, parent, 1)
+    algorithms.dfs.bj_11725_2.dfs(arr, parent, 1)
     for(i in 2..n){
         println(parent[i])
     }
@@ -26,7 +26,7 @@ fun dfs(arr:Array<MutableList<Int>>,parent:Array<Int>,v:Int){
     arr[v].forEach{
         if(parent[it]==0){
             parent[it]=v
-            dfs.bj_11725_2.dfs(arr, parent, it)
+            algorithms.dfs.bj_11725_2.dfs(arr, parent, it)
         }
     }
 }
