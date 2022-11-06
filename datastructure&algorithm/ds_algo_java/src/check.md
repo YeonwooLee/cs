@@ -17,10 +17,21 @@ https://www.acmicpc.net/problem/1987
 
   
 # 푼 문제 목록
+
+### 2022 - 11 - 06
+- 틀림
+  - Stack / bj_S2 / 30 / XXX / 스택 수열 (https://www.acmicpc.net/problem/1874)
+    - BufferedWriter 사용하지 말것
+- 맞음
+  - greedy / bj_S2 / 20 / O / 잃어버린 괄호(https://www.acmicpc.net/problem/1541)
+
+
 ### 2022 - 11 - 05
 - 틀림
-  - greedy / bj_S4 / X / 30+ / 보물 (https://www.acmicpc.net/problem/1026)
-    - 30분 넘김
+  - greedy / bj_S4 / 30+ / X / 보물 (https://www.acmicpc.net/problem/1026)
+    - 30분 넘김(맞추긴 함)
+  - Stack / Gold_4 / 15 /XXX/ 오큰수 (https://www.acmicpc.net/problem/17298)
+    - 30분 넘김(맞추긴 함)
 - 맞음
   - /  /  /  /
 
@@ -192,7 +203,7 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 07
 - 틀림
-  - Stack / Silver_2 / 30 / XX / 스택 수열 (https://www.acmicpc.net/problem/1874)
+  - [오답]Stack / Silver_2 / 30 / XX / 스택 수열 (https://www.acmicpc.net/problem/1874)
 - 맞음
   - dfs / bj_G5 / 25 / O / 신기한 소수 (https://www.acmicpc.net/problem/2023)
   - daily(2022-10-07)bfs / pg_2 / 15 / O / 게임 맵 최단거리 (https://school.programmers.co.kr/learn/courses/30/lessons/1844)
@@ -201,7 +212,7 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 06
 - 틀림
-  - Stack / Gold_4 / 15 /XX/ 오큰수 (https://www.acmicpc.net/problem/17298)
+  - []Stack / Gold_4 / 15 /XX/ 오큰수 (https://www.acmicpc.net/problem/17298)
 - 맞음
   - dfs/ programmers_2 / 15 / O / 타겟 넘버 (https://school.programmers.co.kr/learn/courses/30/lessons/43165)
   - dfs / Silver_2 / 15 / O / 연결 요소의 개수 (https://www.acmicpc.net/problem/11724)
@@ -212,7 +223,7 @@ https://www.acmicpc.net/problem/1987
   - []dfs / swe_4 / 30 / 가능한 시험 점수 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE&problemTitle=%EA%B0%80%EB%8A%A5%ED%95%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
     - 시간 복잡도 줄이기
   - []sliding_window / Silver_2 / 30 / DNA 비밀번호* (https://www.acmicpc.net/problem/12891)
-  - [오답]dfs & bfs / Silver_1 / 40+ / 숨바꼭질* (https://www.acmicpc.net/problem/1697)
+  - []dfs & bfs / Silver_1 / 40+ / 숨바꼭질* (https://www.acmicpc.net/problem/1697)
     - 틀린이유: 1회차-알고리즘 틀림 / 2회차-맞왜틀
 - 맞음
   - exhaustive_search / programmers_1 / 10 / 최소직사각형 https://school.programmers.co.kr/learn/courses/30/lessons/86491
