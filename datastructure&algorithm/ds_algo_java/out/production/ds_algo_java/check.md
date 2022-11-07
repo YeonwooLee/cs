@@ -18,9 +18,18 @@ https://www.acmicpc.net/problem/1987
   
 # 푼 문제 목록
 
-### 2022 - 11 - 06
+### 2022 - 11 - 07
 - 틀림
   - /  /  /  /
+- 맞음
+  - dp / bj_S3 / 0  / O / 1, 2, 3 더하기 (https://www.acmicpc.net/problem/9095) 
+  - dp / bj_S3 / 30 / O / 1로 만들기 (https://www.acmicpc.net/problem/1463)
+
+
+### 2022 - 11 - 06
+- 틀림
+  - Stack / bj_S2 / 30 / XXX / 스택 수열 (https://www.acmicpc.net/problem/1874)
+    - BufferedWriter 사용하지 말것
 - 맞음
   - greedy / bj_S2 / 20 / O / 잃어버린 괄호(https://www.acmicpc.net/problem/1541)
 
@@ -195,14 +204,14 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 08
 - 틀림
-  - dfs / bj_G5 / 30+ / X / ABCDE (https://www.acmicpc.net/problem/13023)
+  - [오답]dfs / bj_G5 / 30+ / X / ABCDE (https://www.acmicpc.net/problem/13023)
   - sort / Gold_2 / 30 / XX / 버블 소트 (https://www.acmicpc.net/problem/1377)
 - 맞음
   - dfs / pg_3 / 15 / O / 네트워크 (https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 
 ### 2022 - 10 - 07
 - 틀림
-  - [오답]Stack / Silver_2 / 30 / XX / 스택 수열 (https://www.acmicpc.net/problem/1874)
+  - []Stack / Silver_2 / 30 / XX / 스택 수열 (https://www.acmicpc.net/problem/1874)
 - 맞음
   - dfs / bj_G5 / 25 / O / 신기한 소수 (https://www.acmicpc.net/problem/2023)
   - daily(2022-10-07)bfs / pg_2 / 15 / O / 게임 맵 최단거리 (https://school.programmers.co.kr/learn/courses/30/lessons/1844)
