@@ -24,6 +24,7 @@ https://www.acmicpc.net/problem/1987
 - 맞음
   - dp / bj_S3 / 0  / O / 1, 2, 3 더하기 (https://www.acmicpc.net/problem/9095) 
   - dp / bj_S3 / 30 / O / 1로 만들기 (https://www.acmicpc.net/problem/1463)
+  - dfs / bj_G5 / 30+ / XO / ABCDE (https://www.acmicpc.net/problem/13023)
 
 
 ### 2022 - 11 - 06
