@@ -18,11 +18,19 @@ https://www.acmicpc.net/problem/1987
   
 # 푼 문제 목록
 
+### 2022 - 11 - 09
+- 틀림
+  - numberTheory / bj_S3 / 30 / X / 소수 구하기 (https://www.acmicpc.net/problem/1929)
+  - sort / Gold_2 / 30 / XXX / 버블 소트 (https://www.acmicpc.net/problem/1377)
+- 맞음
+  - bfs / bj_S1 / 30 / O / 케빈 베이컨의 6단계 법칙(https://www.acmicpc.net/problem/1389)
+
+
 ### 2022 - 11 - 07
 - 틀림
   - /  /  /  /
 - 맞음
-  - dp / bj_S3 / 0  / O / 1, 2, 3 더하기 (https://www.acmicpc.net/problem/9095) 
+  - dp / bj_S3 / 30  / O / 1, 2, 3 더하기 (https://www.acmicpc.net/problem/9095) 
   - dp / bj_S3 / 30 / O / 1로 만들기 (https://www.acmicpc.net/problem/1463)
   - dfs / bj_G5 / 30+ / XO / ABCDE (https://www.acmicpc.net/problem/13023)
 
@@ -205,8 +213,8 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 08
 - 틀림
-  - [오답]dfs / bj_G5 / 30+ / X / ABCDE (https://www.acmicpc.net/problem/13023)
-  - sort / Gold_2 / 30 / XX / 버블 소트 (https://www.acmicpc.net/problem/1377)
+  - []dfs / bj_G5 / 30+ / X / ABCDE (https://www.acmicpc.net/problem/13023)
+  - [오답]sort / Gold_2 / 30 / XX / 버블 소트 (https://www.acmicpc.net/problem/1377)
 - 맞음
   - dfs / pg_3 / 15 / O / 네트워크 (https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 
