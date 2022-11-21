@@ -11,18 +11,55 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - MM - DD
 - 틀림
-  - /  /  /  /
+  -  /  /  /  / 
+  
 - 맞음
   - /  /  /  /
 
   
 # 푼 문제 목록
+### 2022 - 11 - 21
+- 틀림
+  - dp / bj_B1 / 30 / X / 부녀회장이 될테야(https://www.acmicpc.net/problem/2775)
+  - union_find / bj_G4 / 60 / X / 거짓말(https://www.acmicpc.net/problem/1043)
+
+- 맞음
+  - /  /  /  /
+
+### 2022 - 11 - 16
+- 틀림
+  - bfs / bj_G4 / 60+ / X / 탈출(https://www.acmicpc.net/problem/3055)
+
+- 맞음
+  - union_find / bj_G4 / 30 / O / 여행 가자(https://www.acmicpc.net/problem/1976)
+  - dijkstra / bj_G4 / 30 / XO / 최단경로(https://www.acmicpc.net/problem/1753)
+
+
+
+### 2022 - 11 - 15
+- 틀림
+  - 완탐 / bj_G3 / 30 / XX / 내리막 길(https://www.acmicpc.net/problem/1520)
+  - dfs / bj_G4 / 60+ / X / 빙산(https://www.acmicpc.net/problem/2573)
+  - unionFind / bj_G4 / 30 / X / 집합의 표현(https://www.acmicpc.net/problem/1717)
+
+- 맞음
+  - algorithms.bfs.bj_2644_2.bfs / bj_S2 / 30 / XO / 촌수계산(코틀린) (https://www.acmicpc.net/problem/2644)
+
+
+### 2022 - 11 - 10
+- 틀림
+  - dijkstra/ bj_S2 / 45 / X / 특정 거리의 도시 찾기(https://www.acmicpc.net/problem/18352)
+  - numberTheory / bj_G5 / 30 / X / 거의 소수 (https://www.acmicpc.net/problem/1456)
+  - priorityQueue / pg_3 / 10 / XXX / 야근 지수 ("https://school.programmers.co.kr/learn/courses/30/lessons/12927")
+- 맞음
+  - /  /  /  /
 
 ### 2022 - 11 - 09
 - 틀림
   - numberTheory / bj_S3 / 30 / X / 소수 구하기 (https://www.acmicpc.net/problem/1929)
+  - sort / Gold_2 / 30 / XXX / 버블 소트 (https://www.acmicpc.net/problem/1377)
 - 맞음
-  - bfs / bj_S1 / 30 / O / 케빈 베이컨의 6단계 법칙(https://www.acmicpc.net/problem/1389)
+  - algorithms.bfs.bj_2644_2.bfs / bj_S1 / 30 / O / 케빈 베이컨의 6단계 법칙(https://www.acmicpc.net/problem/1389)
 
 
 ### 2022 - 11 - 07
@@ -57,7 +94,7 @@ https://www.acmicpc.net/problem/1987
   - /  /  /  /
 - 맞음
   - greedy / pg_3 / 20 / O / 단속카메라 (https://school.programmers.co.kr/learn/courses/30/lessons/42884)
-  - dfs & bfs / Silver_1 / 15 / XXO /숨바꼭질 (https://www.acmicpc.net/problem/1697)
+  - dfs & algorithms.bfs.bj_2644_2.bfs / Silver_1 / 15 / XXO /숨바꼭질 (https://www.acmicpc.net/problem/1697)
     
 
 
@@ -71,8 +108,8 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 11 - 02
 - 틀림
-  - dfs & bfs / pg_3 / 60+ / X / 불량 사용자(https://school.programmers.co.kr/learn/courses/30/lessons/64064)
-  - exhaustive_search / swe_4 / 30 / XX / 가능한 시험 점수 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE&problemTitle=%EA%B0%80%EB%8A%A5%ED%95%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
+  - dfs & algorithms.bfs.bj_2644_2.bfs / pg_3 / 60+ / X / 불량 사용자(https://school.programmers.co.kr/learn/courses/30/lessons/64064)
+  - exhaustive_search / swe_4 / 30 / XX / 가능한 시험 점수 https://swexpertacademy.com/algorithms.bfs.bj_2644_2.main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE&problemTitle=%EA%B0%80%EB%8A%A5%ED%95%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
   
 - 맞음
   - /  /  /  /
@@ -81,7 +118,7 @@ https://www.acmicpc.net/problem/1987
 - 틀림
 - 맞음
   - Hash / pg_3 / 50 / O / 베스트앨범(https://school.programmers.co.kr/learn/courses/30/lessons/42579)
-  - dfs & bfs / Silver_2 / 10 / XO / 트리의 부모 찾기 https://www.acmicpc.net/problem/11725
+  - dfs & algorithms.bfs.bj_2644_2.bfs / Silver_2 / 10 / XO / 트리의 부모 찾기 https://www.acmicpc.net/problem/11725
     
 
 
@@ -98,7 +135,7 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 30
 - 틀림
-  - dfs & bfs / pg_3 / 30++ / X / 등대(https://school.programmers.co.kr/learn/courses/30/lessons/133500)
+  - dfs & algorithms.bfs.bj_2644_2.bfs / pg_3 / 30++ / X / 등대(https://school.programmers.co.kr/learn/courses/30/lessons/133500)
     - 3단계쫄
     - 풀이 못 떠올림
   - merge_sort / Platinum_5 / 30++/ XX / 버블 소트 https://www.acmicpc.net/problem/1517
@@ -113,7 +150,7 @@ https://www.acmicpc.net/problem/1987
 - 틀림
   - merge_sort / Silver_5 / 60+ / XX /수 정렬하기2 https://www.acmicpc.net/problem/2751
     - merge sort 구현
-  - dfs & bfs / bj_G4 / 30 / X / 알고스팟 (https://www.acmicpc.net/problem/1261)
+  - dfs & algorithms.bfs.bj_2644_2.bfs / bj_G4 / 30 / X / 알고스팟 (https://www.acmicpc.net/problem/1261)
     - 문제 제대로 안읽음
 - 맞음
   - /  /  /  /
@@ -134,7 +171,7 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 25
 - 틀림
-  - quick_sort / bj_S5 / 60 / XX / K번째 수(https://www.acmicpc.net/problem/11004)
+  - [오답]quick_sort / bj_S5 / 60 / XX / K번째 수(https://www.acmicpc.net/problem/11004)
 - 맞음
   - /  /  /  /
 
@@ -143,14 +180,14 @@ https://www.acmicpc.net/problem/1987
 ### 2022 - 10 - 24
 - 틀림
   - /  /  /  /
-  - floyd-warshall / Silver_1 / 30 / X / 경로 찾기 https://www.acmicpc.net/problem/11403 
+  - []floyd-warshall / Silver_1 / 30 / X / 경로 찾기 https://www.acmicpc.net/problem/11403 
 - 맞음
   - dijkstra / bj_G3 / 30 / O / 파티(https://www.acmicpc.net/problem/1238)
 
 
 ### 2022 - 10 - 22
 - 틀림
-  - dijkstra / bj_G4 / 30- / X / 최단경로(https://www.acmicpc.net/problem/1753)
+  - []dijkstra / bj_G4 / 30- / X / 최단경로(https://www.acmicpc.net/problem/1753)
     - 다익스트라 구현
     - 다익스트라 visited 의문점(visited가 필요한지, 필요하다면 어디에 위치해야하는가)
       1. poll() 레벨
@@ -162,7 +199,7 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 21
 - 틀림
-  - 완탐 / bj_G3 / 30 / X / 내리막 길(https://www.acmicpc.net/problem/1520)
+  - []완탐 / bj_G3 / 30 / X / 내리막 길(https://www.acmicpc.net/problem/1520)
   - 완탐 / bj_G3 / 30 / X / 내리막 길(코틀린)(https://www.acmicpc.net/problem/1520)
     - 시간복잡도 = 4 * 500 * 500
 - 맞음
@@ -172,13 +209,13 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 20
 - 틀림
-  - bfs / bj_S2 / 30 / O / 촌수계산(코틀린) (https://www.acmicpc.net/problem/2644)
+  - []algorithms.bfs.bj_2644_2.bfs / bj_S2 / 30 / X / 촌수계산(코틀린) (https://www.acmicpc.net/problem/2644)
     - 입력받기, mutableList배열 선언, q 선언
       - private fun readInts() = readLine()!!.split(" ").map{it.toInt()}
       - val map = Array<MutableList<Int>>(num+1){ mutableListOf() }
       - val q:Queue<Array<Int>> = LinkedList<Array<Int>>()
 - 맞음
-  - bfs / bj_S2 / 30 / O / 촌수계산 (https://www.acmicpc.net/problem/2644)
+  - algorithms.bfs.bj_2644_2.bfs / bj_S2 / 30 / O / 촌수계산 (https://www.acmicpc.net/problem/2644)
 
 ### 2022 - 10 - 15
 - 틀림
@@ -190,7 +227,7 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 14
 - 틀림
-  - priorityQueue / pg_3 / 10 / X / 야근 지수 ("https://school.programmers.co.kr/learn/courses/30/lessons/12927")
+  - []priorityQueue / pg_3 / 10 / X / 야근 지수 ("https://school.programmers.co.kr/learn/courses/30/lessons/12927")
     - priorityQueue 정렬 기준 변경 = new PriorityQueue<>((a,b)->b.compareTo(a))
     - 자바 int 21억까지민 표현 가능
 - 맞음
@@ -207,13 +244,13 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 10
 - 맞음
-  - bfs / pg_3 / 30 / O / 단어 변환 (https://school.programmers.co.kr/learn/courses/30/lessons/43163)
+  - algorithms.bfs.bj_2644_2.bfs / pg_3 / 30 / O / 단어 변환 (https://school.programmers.co.kr/learn/courses/30/lessons/43163)
 
 
 ### 2022 - 10 - 08
 - 틀림
   - []dfs / bj_G5 / 30+ / X / ABCDE (https://www.acmicpc.net/problem/13023)
-  - [오답]sort / Gold_2 / 30 / XX / 버블 소트 (https://www.acmicpc.net/problem/1377)
+  - []sort / Gold_2 / 30 / XX / 버블 소트 (https://www.acmicpc.net/problem/1377)
 - 맞음
   - dfs / pg_3 / 15 / O / 네트워크 (https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 
@@ -222,7 +259,7 @@ https://www.acmicpc.net/problem/1987
   - []Stack / Silver_2 / 30 / XX / 스택 수열 (https://www.acmicpc.net/problem/1874)
 - 맞음
   - dfs / bj_G5 / 25 / O / 신기한 소수 (https://www.acmicpc.net/problem/2023)
-  - daily(2022-10-07)bfs / pg_2 / 15 / O / 게임 맵 최단거리 (https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+  - daily(2022-10-07)algorithms.bfs.bj_2644_2.bfs / pg_2 / 15 / O / 게임 맵 최단거리 (https://school.programmers.co.kr/learn/courses/30/lessons/1844)
 
 
 
@@ -236,10 +273,10 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 05
 - 틀림
-  - []dfs / swe_4 / 30 / 가능한 시험 점수 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE&problemTitle=%EA%B0%80%EB%8A%A5%ED%95%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
+  - []dfs / swe_4 / 30 / 가능한 시험 점수 https://swexpertacademy.com/algorithms.bfs.bj_2644_2.main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE&problemTitle=%EA%B0%80%EB%8A%A5%ED%95%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
     - 시간 복잡도 줄이기
   - []sliding_window / Silver_2 / 30 / DNA 비밀번호* (https://www.acmicpc.net/problem/12891)
-  - []dfs & bfs / Silver_1 / 40+ / 숨바꼭질* (https://www.acmicpc.net/problem/1697)
+  - []dfs & algorithms.bfs.bj_2644_2.bfs / Silver_1 / 40+ / 숨바꼭질* (https://www.acmicpc.net/problem/1697)
     - 틀린이유: 1회차-알고리즘 틀림 / 2회차-맞왜틀
 - 맞음
   - exhaustive_search / programmers_1 / 10 / 최소직사각형 https://school.programmers.co.kr/learn/courses/30/lessons/86491
@@ -255,7 +292,7 @@ https://www.acmicpc.net/problem/1987
   - []dfs / Silver_2 / 30 / 트리의 부모 찾기 https://www.acmicpc.net/problem/11725
     - 인접리스트로 dfs 구현
 - 맞음
-  - bfs / Silver_1 / 30- / 영역 구하기 https://www.acmicpc.net/problem/2583
+  - algorithms.bfs.bj_2644_2.bfs / Silver_1 / 30- / 영역 구하기 https://www.acmicpc.net/problem/2583
 ### 2022 - 10 - 03
 - 틀림
   - []floyd-warshall / Silver_1 / 60+ / 경로 찾기 https://www.acmicpc.net/problem/11403
@@ -265,7 +302,7 @@ https://www.acmicpc.net/problem/1987
     - 틀린이유: 퀵 소트
     - 공부: 퀵 소트
 - 맞음
-  - dfs & bfs/ Gold_4 / 30 / 알파벳 https://www.acmicpc.net/problem/1987
+  - dfs & algorithms.bfs.bj_2644_2.bfs/ Gold_4 / 30 / 알파벳 https://www.acmicpc.net/problem/1987
   - sort/ Silver_4 / 15/ ATM / https://www.acmicpc.net/problem/11399
   
 ### 2022 - 10 - 02
@@ -275,10 +312,10 @@ https://www.acmicpc.net/problem/1987
     - 공부: Comparable, Comparator
 
 - 맞음
-  - dfs & bfs/ Silver_1 / 35 / 안전 영역 (https://www.acmicpc.net/problem/2468)
+  - dfs & algorithms.bfs.bj_2644_2.bfs/ Silver_1 / 35 / 안전 영역 (https://www.acmicpc.net/problem/2468)
     - printArr 항상 만들기 
     - 영역 셀 때 dfs에 초기화 코드 넣지 말기
-  - dfs & bfs/ Silver_1 / 20 / 나이트의 이동 (https://www.acmicpc.net/problem/7562)
+  - dfs & algorithms.bfs.bj_2644_2.bfs/ Silver_1 / 20 / 나이트의 이동 (https://www.acmicpc.net/problem/7562)
   - sort / Bronze_2 / 5 / 수 정렬하기 / https://www.acmicpc.net/problem/2750
   - sort / Silver_5 / 20 / 소트인사이드 / https://www.acmicpc.net/problem/1427
 
@@ -288,17 +325,17 @@ https://www.acmicpc.net/problem/1987
     - 틀린이유: 출력초과 (원인 모름)
   - []Stack / Gold_4 / 30 / 오큰수 (https://www.acmicpc.net/problem/17298)
     - 틀린이유: 풀이 못떠올림
-  - []dfs & bfs / Silver_1 / 40+ / 숨바꼭질 (https://www.acmicpc.net/problem/1697)V
+  - []dfs & algorithms.bfs.bj_2644_2.bfs / Silver_1 / 40+ / 숨바꼭질 (https://www.acmicpc.net/problem/1697)V
     - 틀린이유: 1회차-알고리즘 틀림 / 2회차-맞왜틀
 - 맞음
   - Queue / Silver_4 / 5 / 카드2 (https://www.acmicpc.net/problem/2164)
   - PriorityQueue / Silver_1 / 10 / 절댓값 힙 (https://www.acmicpc.net/problem/11286)
-  - dfs & bfs/ Silver_2 / 30 / 섬의 개수 (https://www.acmicpc.net/problem/4963)
+  - dfs & algorithms.bfs.bj_2644_2.bfs/ Silver_2 / 30 / 섬의 개수 (https://www.acmicpc.net/problem/4963)
   - 
 ### 2022 - 09 - 30
 - 틀림
   - []sliding_window / Silver_2 / 60+ / DNA 비밀번호 (https://www.acmicpc.net/problem/12891)
 - 맞음
-  - dfs & bfs / Silver_2 / 20분 / 연결 요소의 개수 (https://www.acmicpc.net/problem/11724)
-  - dfs & bfs / Gold_5 / 40분 / 토마토 (https://www.acmicpc.net/problem/7569)
+  - dfs & algorithms.bfs.bj_2644_2.bfs / Silver_2 / 20분 / 연결 요소의 개수 (https://www.acmicpc.net/problem/11724)
+  - dfs & algorithms.bfs.bj_2644_2.bfs / Gold_5 / 40분 / 토마토 (https://www.acmicpc.net/problem/7569)
 

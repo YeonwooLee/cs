@@ -18,7 +18,7 @@ public class Main {
     public static void main(String[] args) throws IOException{
         init();
 
-        //result = algorithms.bfs();
+        //result = algorithms.algorithms.bfs.bj_2644_2.bfs();
         used[map[0][0]-0]='*';
         dfs(0,0,1, ""+map[0][0]);
 
