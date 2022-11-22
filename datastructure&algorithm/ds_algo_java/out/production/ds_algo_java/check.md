@@ -18,8 +18,18 @@ https://www.acmicpc.net/problem/1987
 
   
 # 푼 문제 목록
+
+### 2022 - 11 - 22
+- 틀림
+  - dfs / bj_G4 / 30 / X / 트리의 지름(https://www.acmicpc.net/problem/1967)
+
+- 맞음
+  - union_find / bj_G4 / 15 / O / 친구비(https://www.acmicpc.net/problem/16562)
+
+
 ### 2022 - 11 - 21
 - 틀림
+  - floyd-warshall / Silver_1 / 30 / XX / 경로 찾기 https://www.acmicpc.net/problem/11403 
   - dp / bj_B1 / 30 / X / 부녀회장이 될테야(https://www.acmicpc.net/problem/2775)
   - union_find / bj_G4 / 60 / X / 거짓말(https://www.acmicpc.net/problem/1043)
 
@@ -163,7 +173,7 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 27
 - 틀림
-  - dijkstra/ bj_G4 / 60+ / X / 특정한 최단 경로 (https://www.acmicpc.net/problem/1504)
+  - [오답dijkstra/ bj_G4 / 60+ / X / 특정한 최단 경로 (https://www.acmicpc.net/problem/1504)
     - 문제 똑바로 안읽음
 - 맞음
   - /  /  /  /
@@ -171,7 +181,7 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 25
 - 틀림
-  - [오답]quick_sort / bj_S5 / 60 / XX / K번째 수(https://www.acmicpc.net/problem/11004)
+  - []quick_sort / bj_S5 / 60 / XX / K번째 수(https://www.acmicpc.net/problem/11004)
 - 맞음
   - /  /  /  /
 
