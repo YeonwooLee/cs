@@ -19,6 +19,13 @@ https://www.acmicpc.net/problem/1987
   
 # 푼 문제 목록
 
+### 2022 - 11 - 24
+- 틀림
+  - string / pg_2 / 60+++ / X / 3차 파일명 정렬(https://school.programmers.co.kr/learn/courses/30/lessons/17686)
+
+- 맞음
+  - /  /  /  /
+
 ### 2022 - 11 - 22
 - 틀림
   - dfs / bj_G4 / 30 / X / 트리의 지름(https://www.acmicpc.net/problem/1967)

@@ -22,6 +22,7 @@ https://www.acmicpc.net/problem/1987
 ### 2022 - 11 - 22
 - 틀림
   - dfs / bj_G4 / 30 / X / 트리의 지름(https://www.acmicpc.net/problem/1967)
+  - quick_sort / bj_S5 / 30 / XXX / K번째 수(https://www.acmicpc.net/problem/11004)
 
 - 맞음
   - union_find / bj_G4 / 15 / O / 친구비(https://www.acmicpc.net/problem/16562)
