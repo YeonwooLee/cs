@@ -19,6 +19,14 @@ https://www.acmicpc.net/problem/1987
   
 # 푼 문제 목록
 
+### 2022 - 11 - 25
+- 틀림
+  - DP / pg_3 / 30 / X / 등굣길(https://school.programmers.co.kr/learn/courses/30/lessons/42898)
+  - ?? / pg_3 / 20 / X / 기지국 설치(https://school.programmers.co.kr/learn/courses/30/lessons/12979)
+- 맞음
+  - ?? / pg_3 / 30 / O / 숫자 게임(https://school.programmers.co.kr/learn/courses/30/lessons/12987)
+
+
 ### 2022 - 11 - 24
 - 틀림
   - string / pg_2 / 60+++ / X / 3차 파일명 정렬(https://school.programmers.co.kr/learn/courses/30/lessons/17686)
