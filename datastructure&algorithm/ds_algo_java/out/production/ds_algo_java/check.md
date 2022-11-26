@@ -18,6 +18,12 @@ https://www.acmicpc.net/problem/1987
 
   
 # 푼 문제 목록
+### 2022 - 11 - 26
+- 틀림
+  - bfs / bj_G1 / ? / X / 최소환승경로(https://www.acmicpc.net/problem/2021)
+
+- 맞음
+  - /  /  /  /
 
 ### 2022 - 11 - 25
 - 틀림
