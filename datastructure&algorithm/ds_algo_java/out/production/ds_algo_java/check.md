@@ -195,7 +195,7 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 27
 - 틀림
-  - [오답dijkstra/ bj_G4 / 60+ / X / 특정한 최단 경로 (https://www.acmicpc.net/problem/1504)
+  - [오답]dijkstra/ bj_G4 / 60+ / X / 특정한 최단 경로 (https://www.acmicpc.net/problem/1504)
     - 문제 똑바로 안읽음
 - 맞음
   - /  /  /  /
