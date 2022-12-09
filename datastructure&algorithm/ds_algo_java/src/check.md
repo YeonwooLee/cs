@@ -18,6 +18,15 @@ https://www.acmicpc.net/problem/1987
 
   
 # 푼 문제 목록
+### 2022 - 12 - 09
+- 틀림
+  - dfs & bfs / bj_G4 / 30 / XX / 알고스팟 (https://www.acmicpc.net/problem/1261)
+    - 문제에서 요구하는 조건을 가장 가까운 것으로 취급하여 풀어보기
+
+- 맞음
+  - 문자열/ pg_1 / 30 / XO / 숫자 짝꿍(https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=java)
+  - merge_sort / Silver_5 / 60+ / XX /수 정렬하기2 https://www.acmicpc.net/problem/2751
+
 ### 2022 - 11 - 27
 - 틀림
   - dijkstra/ bj_G4 / 50 / XX/ 특정한 최단 경로 (https://www.acmicpc.net/problem/1504)
@@ -189,9 +198,9 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 29
 - 틀림
-  - merge_sort / Silver_5 / 60+ / XX /수 정렬하기2 https://www.acmicpc.net/problem/2751
+  - []merge_sort / Silver_5 / 60+ / XX /수 정렬하기2 https://www.acmicpc.net/problem/2751
     - merge sort 구현
-  - dfs & algorithms.bfs.bj_2644_2.bfs / bj_G4 / 30 / X / 알고스팟 (https://www.acmicpc.net/problem/1261)
+  - dfs & bfs / bj_G4 / 30 / X / 알고스팟 (https://www.acmicpc.net/problem/1261)
     - 문제 제대로 안읽음
 - 맞음
   - /  /  /  /
@@ -199,12 +208,12 @@ https://www.acmicpc.net/problem/1987
 
 ### 2022 - 10 - 28
 - 틀림
-  - 문자열/ pg_1 / 60 / X / 숫자 짝꿍(https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=java)
+  - []문자열/ pg_1 / 60 / X / 숫자 짝꿍(https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=java)
 
 
 ### 2022 - 10 - 27
 - 틀림
-  - [오답여기까지]dijkstra/ bj_G4 / 60+ / X / 특정한 최단 경로 (https://www.acmicpc.net/problem/1504)
+  - []dijkstra/ bj_G4 / 60+ / X / 특정한 최단 경로 (https://www.acmicpc.net/problem/1504)
     - 문제 똑바로 안읽음
 - 맞음
   - /  /  /  /
