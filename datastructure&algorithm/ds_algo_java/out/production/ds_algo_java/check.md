@@ -15,12 +15,20 @@ https://www.acmicpc.net/problem/1987
   
 - 맞음
   - /  /  /  /
-
+    
   
 # 푼 문제 목록
-### 2022 - 12 - 09
+
+### 2022 - 12 - 10
 - 틀림
   -  /  /  /  /
+
+- 맞음
+  - dfs & algorithms.bfs.bj_2644_2.bfs / pg_3 / 35 / XO / 등대(https://school.programmers.co.kr/learn/courses/30/lessons/133500)
+### 2022 - 12 - 09
+- 틀림
+  - dfs & bfs / bj_G4 / 30 / XX / 알고스팟 (https://www.acmicpc.net/problem/1261)
+    - 문제에서 요구하는 조건을 가장 가까운 것으로 취급하여 풀어보기
 
 - 맞음
   - 문자열/ pg_1 / 30 / XO / 숫자 짝꿍(https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=java)
@@ -199,7 +207,7 @@ https://www.acmicpc.net/problem/1987
 - 틀림
   - []merge_sort / Silver_5 / 60+ / XX /수 정렬하기2 https://www.acmicpc.net/problem/2751
     - merge sort 구현
-  - dfs & algorithms.bfs.bj_2644_2.bfs / bj_G4 / 30 / X / 알고스팟 (https://www.acmicpc.net/problem/1261)
+  - dfs & bfs / bj_G4 / 30 / X / 알고스팟 (https://www.acmicpc.net/problem/1261)
     - 문제 제대로 안읽음
 - 맞음
   - /  /  /  /

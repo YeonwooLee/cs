@@ -15,9 +15,23 @@ https://www.acmicpc.net/problem/1987
   
 - 맞음
   - /  /  /  /
-
+    
   
 # 푼 문제 목록
+
+### 2022 - 12 - 13
+- 틀림
+  - two_pointer / pg_3 / 30 / X / 보석쇼핑(https://school.programmers.co.kr/learn/courses/30/lessons/67258?language=java)
+    - 자바 답보고 성공, 코틀린으로 번역 실패
+- 맞음
+  - /  /  /  /
+
+### 2022 - 12 - 10
+- 틀림
+  -  /  /  /  /
+
+- 맞음
+  - dfs & algorithms.bfs.bj_2644_2.bfs / pg_3 / 35 / XO / 등대(https://school.programmers.co.kr/learn/courses/30/lessons/133500)
 ### 2022 - 12 - 09
 - 틀림
   - dfs & bfs / bj_G4 / 30 / XX / 알고스팟 (https://www.acmicpc.net/problem/1261)
