@@ -9,7 +9,7 @@ https://www.acmicpc.net/problem/1987
 
 [해결코드]
 
-### 2022 - MM - DD
+### 2023 - MM - DD
 - 틀림
   -  /  /  /  / 
   
@@ -18,6 +18,26 @@ https://www.acmicpc.net/problem/1987
     
   
 # 푼 문제 목록
+### 2023 - MM - DD
+- 틀림
+  - dfs & bfs, priority_queue / swea_4 / 30 / X / 보급로(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
+
+- 맞음
+  - /  /  /  /
+
+
+### 2022 - 12 - 14
+- 틀림
+  - string, big_integer / bj_G1 / 40 / X / 36진수(https://www.acmicpc.net/problem/1036)
+    - 할만하다. 그동안 너무 난이도에 쫄았다는 느낌.
+- 맞음
+  - /  /  /  /
+### 2022 - 12 - 13
+- 틀림
+  - two_pointer / pg_3 / 30 / X / 보석쇼핑(https://school.programmers.co.kr/learn/courses/30/lessons/67258?language=java)
+    - 자바 답보고 성공, 코틀린으로 번역 실패
+- 맞음
+  - /  /  /  /
 
 ### 2022 - 12 - 10
 - 틀림

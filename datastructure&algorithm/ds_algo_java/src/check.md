@@ -9,7 +9,7 @@ https://www.acmicpc.net/problem/1987
 
 [해결코드]
 
-### 2022 - MM - DD
+### 2023 - MM - DD
 - 틀림
   -  /  /  /  / 
   
@@ -19,6 +19,23 @@ https://www.acmicpc.net/problem/1987
   
 # 푼 문제 목록
 
+
+### 2023 - 01 - 04
+- 틀림
+  - dfs & bfs, priority_queue / swea_4 / 30 / X / 보급로(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
+    - 풀이틀림, 오랜만이라 그렇지 하던 때 했으면 풀었을듯, 쫄x 하기
+  - recursion, dfs / swea_5 / 60+ / X / 공통조상(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD)
+    - 순수시간은 30분 안 걸렸지만 총 시간 너무 오래 걸려서 틀림처리함, 이것 또한 틀릴까봐 쫄아서 집중 못했음
+- 맞음
+  
+
+
+### 2022 - 12 - 14
+- 틀림
+  - string, big_integer / bj_G1 / 40 / X / 36진수(https://www.acmicpc.net/problem/1036)
+    - 할만하다. 그동안 너무 난이도에 쫄았다는 느낌.
+- 맞음
+  - /  /  /  /
 ### 2022 - 12 - 13
 - 틀림
   - two_pointer / pg_3 / 30 / X / 보석쇼핑(https://school.programmers.co.kr/learn/courses/30/lessons/67258?language=java)
