@@ -19,6 +19,12 @@ https://www.acmicpc.net/problem/1987
   
 # 푼 문제 목록
 
+### 2023 - 01 - 09
+- 틀림
+  -  /  /  /  /
+
+- 맞음
+  - dfs & bfs / swea_4 / 30 / O / 미로2(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD)
 
 ### 2023 - 01 - 04
 - 틀림
