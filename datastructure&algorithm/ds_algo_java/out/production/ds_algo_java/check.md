@@ -18,12 +18,22 @@ https://www.acmicpc.net/problem/1987
     
   
 # 푼 문제 목록
-### 2023 - MM - DD
+
+### 2023 - 01 - 09
 - 틀림
-  - dfs & bfs, priority_queue / swea_4 / 30 / X / 보급로(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
+  -  /  /  /  /
 
 - 맞음
-  - /  /  /  /
+  - dfs & bfs / swea_4 / 30 / O / 미로2(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD)
+
+### 2023 - 01 - 04
+- 틀림
+  - dfs & bfs, priority_queue / swea_4 / 30 / X / 보급로(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
+    - 풀이틀림, 오랜만이라 그렇지 하던 때 했으면 풀었을듯, 쫄x 하기
+  - recursion, dfs / swea_5 / 60+ / X / 공통조상(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD)
+    - 순수시간은 30분 안 걸렸지만 총 시간 너무 오래 걸려서 틀림처리함, 이것 또한 틀릴까봐 쫄아서 집중 못했음
+- 맞음
+  
 
 
 ### 2022 - 12 - 14
@@ -369,7 +379,7 @@ https://www.acmicpc.net/problem/1987
   - []dfs / Silver_2 / 30 / 트리의 부모 찾기 https://www.acmicpc.net/problem/11725
     - 인접리스트로 dfs 구현
 - 맞음
-  - algorithms.bfs.bj_2644_2.bfs / Silver_1 / 30- / 영역 구하기 https://www.acmicpc.net/problem/2583
+  - bfs / Silver_1 / 30- / 영역 구하기 https://www.acmicpc.net/problem/2583
 ### 2022 - 10 - 03
 - 틀림
   - []floyd-warshall / Silver_1 / 60+ / 경로 찾기 https://www.acmicpc.net/problem/11403

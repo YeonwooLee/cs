@@ -379,7 +379,7 @@ https://www.acmicpc.net/problem/1987
   - []dfs / Silver_2 / 30 / 트리의 부모 찾기 https://www.acmicpc.net/problem/11725
     - 인접리스트로 dfs 구현
 - 맞음
-  - algorithms.bfs.bj_2644_2.bfs / Silver_1 / 30- / 영역 구하기 https://www.acmicpc.net/problem/2583
+  - bfs / Silver_1 / 30- / 영역 구하기 https://www.acmicpc.net/problem/2583
 ### 2022 - 10 - 03
 - 틀림
   - []floyd-warshall / Silver_1 / 60+ / 경로 찾기 https://www.acmicpc.net/problem/11403
